@@ -1,0 +1,20 @@
+{
+  "name": "project-manage",
+  "version": "1.0.0",
+  "description": "学习github设计利用vue3搭建的项目管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow-xueer/project-manage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow-xueer/project-manage/issues"
+  },
+  "homepage": "https://github.com/snow-xueer/project-manage#readme"
+}
